@@ -1,0 +1,35 @@
+{
+  "term": "Spring",
+  "year": "2023",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [
+      "3227e5fc-418f-4d3a-ed6a-8d5cfc6c232a"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "",
+    "website": "electrochemical-energy-systems"
+  },
+  "course_title": "Sharon's Resource List",
+  "course_description": "This is a testing page to build a resource list.",
+  "department_numbers": [
+    "RES"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "srl.01",
+  "course_image_thumbnail": {
+    "content": "",
+    "website": "electrochemical-energy-systems"
+  },
+  "learning_resource_types": [
+    "Lecture Notes"
+  ],
+  "site_uid": "fc4bc758-b3d8-45fc-8047-9fe74c1e69a4",
+  "site_short_id": "10.426-10.626-spring-2022"
+}
