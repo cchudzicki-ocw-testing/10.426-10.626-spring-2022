@@ -90,4 +90,4 @@ Lecture 25: Porous Electrodes
 
 Lecture 26: Diffuse Charge in Electrolytes
 
-Final Exame
+Final Exam
