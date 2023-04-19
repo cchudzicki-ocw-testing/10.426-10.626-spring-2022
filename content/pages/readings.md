@@ -16,11 +16,11 @@ Required readings will include selected lecture notes from previous semesters of
 - Papers:
     - \[1\] Bazant, M. Z., “[Theory of Chemical Kinetics and Charge Transfer Based on Nonequilibrium Thermodynamics](http://dx.doi.org/10.1021/ar300145c).” *Accounts of Chemical Research* 46, no. 5 (2013).
     - \[2\] Bazant, M. Z., “Thermodynamics of Driven Open Systems and Control of Phase Separation by Electro-Autocatalysis.” *Faraday Discussions* 199 (2017).
-    - \[3\] Fraggedakis D., Martin Z. Bazant, et al, “Theory of Coupled Ion-Electron Transfer.” *Electrochimica Acta* 367 (2021).
-    - \[4\] Bai P., Martin Z. Bazant, et al, "Transition of Lithium Growth Mechanisms in Liquid Electrolytes." *Energy Env. Sci.* 10  (2016).
-    - \[5\] Fu Y., Martin Z. Bazant, et al, “Heterogeneous Electrocatalysis in Porous Cathodes of Solid Oxide Fuel Cells.” *Electrochimica Acta* 159 (2015).
-    - \[6\] W. Braff, C. R. Buie & MZB, "Boundary layer analysis of membraneless electrochemical cells." *J. Electrochem. Soc*. (2013).
-    - \[7\] R. B. Smith & MZB, “Multiphase porous electrode theory”, *J. Electrochem. Soc.* (2017).
+    - \[3\] Fraggedakis, D., Martin Z. Bazant, et al, “Theory of Coupled Ion-Electron Transfer.” *Electrochimica Acta* 367 (2021).
+    - \[4\] Bai, P., M. Z. Bazant, et al, "Transition of Lithium Growth Mechanisms in Liquid Electrolytes." *Energy Env. Sci.* 10  (2016).
+    - \[5\] Fu, Y., M. Z. Bazant, et al, “Heterogeneous Electrocatalysis in Porous Cathodes of Solid Oxide Fuel Cells.” *Electrochimica Acta* 159 (2015).
+    - \[6\] Braff, W., C. R. Buie, and M. Z. Bazant, "Boundary Layer Analysis of Membraneless Electrochemical Cells." *J. Electrochem. Soc*. 160 (2013).
+    - \[7\] Smith, R. B., and M. Z. Bazant, “[Multiphase Porous Electrode Theory](https://iopscience.iop.org/article/10.1149/2.0171711jes).” *J. Electrochem. Soc.* 164 (2017).
 
 The readings in **bold** are required.
 
