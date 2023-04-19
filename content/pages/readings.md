@@ -14,8 +14,8 @@ Required readings will include selected lecture notes from previous semesters of
     - \[B#\] Bard, Allen J., and Larry R. Faulkner. *Electrochemical Methods: Fundamentals and Applications*. 2nd ed. Wiley, 2000. ISBN: 9780471043720.
     - \[O#\] O’ Hayre, Ryan, Suk-Won Cha, et al. *Fuel Cell Fundamentals*. 2nd ed. Wiley, 2009. ISBN: 9780470258439. \[Preview with [Google Books](https://www.google.com/books/edition/Fuel_Cell_Fundamentals/O2JYCwAAQBAJ?hl=en&gbpv=1&pg=PR1&printsec=frontcover)\]
 - Papers:
-    - \[1\] Bazant, M. Z. “[Theory of Chemical Kinetics and Charge Transfer Based on Nonequilibrium Thermodynamics](http://dx.doi.org/10.1021/ar300145c).” *Accounts of Chemical Research* 46, no. 5 (2013): 1149–50.
-    - \[2\] MZB, “Thermodynamics of driven open systems and control of phase separation by electro-autocatalysis”, *Faraday Discussions* (2017).
+    - \[1\] Bazant, M. Z., “[Theory of Chemical Kinetics and Charge Transfer Based on Nonequilibrium Thermodynamics](http://dx.doi.org/10.1021/ar300145c).” *Accounts of Chemical Research* 46, no. 5 (2013): 1149–50.
+    - \[2\] Bazant, M. Z., “Thermodynamics of Driven open systems and control of phase separation by electro-autocatalysis”, *Faraday Discussions* 199 (2017).
     - \[3\] D. Fraggedakis,… & MZB, “Theory of coupled ion-electron transfer”, *Electrochimica Acta* (2020).
     - \[4\] P. Bai,… & MZB, Transition of lithium growth mechanisms in liquid electrolytes, *Energy Env. Sci.* (2016).
     - \[5\] Y. Fu,… & MZB, “Heterogeneous electrocatalysis in porous cathodes of solid oxide fuel cells”, *Electrochimica Acta* (2015).
