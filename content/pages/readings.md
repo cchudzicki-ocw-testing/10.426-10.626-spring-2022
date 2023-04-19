@@ -8,13 +8,13 @@ uid: 94586b1d-1125-4edb-a5ef-bbc9b317c6b9
 ---
 Required readings will include selected lecture notes from previous semesters of the course, as well as research articles, assigned throughout the semester and chapters from the following textbooks:
 
-- Previous [10.426/10.626 lecture notes:](https://ocw.mit.edu/courses/chemical-engineering/10-626-electrochemical- energy-systems-spring-2014/lecture-notes) ***\#*** 2014; **\#** 2011; **{#}** 2012; (#) 2009
+- Previous [10.426/10.626 lecture notes](https://ocw.mit.edu/courses/10-626-electrochemical-energy-systems-spring-2014/pages/lecture-notes/): ***#*** 2014; **#** 2011; **{#}** 2012; (#) 2009
 - Book chapters:
     - \[N#\] Newman, John, and Karen E. Thomas-Alyea. *Electrochemical Systems*. 3rd ed. Wiley-Interscience, 2004. ISBN: 9780471477563. \[Preview with [Google Books](http://books.google.com/books?id=vArZu0HM-xYC&pg=PAfrontcover)\]
     - \[B#\] Bard, Allen J., and Larry R. Faulkner. *Electrochemical Methods: Fundamentals and Applications*. 2nd ed. Wiley, 2000. ISBN: 9780471043720.
     - \[O#\] O’ Hayre, Ryan, Suk-Won Cha, et al. *Fuel Cell Fundamentals*. 2nd ed. Wiley, 2009. ISBN: 9780470258439. \[Preview with [Google Books](https://www.google.com/books/edition/Fuel_Cell_Fundamentals/O2JYCwAAQBAJ?hl=en&gbpv=1&pg=PR1&printsec=frontcover)\]
 - Papers:
-    - \[1\] MZB, “Theory of chemical kinetics and charge transfer based on nonequilibrium thermodynamics”, *Accounts of Chemical Research* (2013).
+    - \[1\] Bazant, M. Z. “[Theory of Chemical Kinetics and Charge Transfer Based on Nonequilibrium Thermodynamics](http://dx.doi.org/10.1021/ar300145c).” *Accounts of Chemical Research* 46, no. 5 (2013): 1149–50.
     - \[2\] MZB, “Thermodynamics of driven open systems and control of phase separation by electro-autocatalysis”, *Faraday Discussions* (2017).
     - \[3\] D. Fraggedakis,… & MZB, “Theory of coupled ion-electron transfer”, *Electrochimica Acta* (2020).
     - \[4\] P. Bai,… & MZB, Transition of lithium growth mechanisms in liquid electrolytes, *Energy Env. Sci.* (2016).
