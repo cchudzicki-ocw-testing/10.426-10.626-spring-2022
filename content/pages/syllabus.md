@@ -7,11 +7,11 @@ uid: 93c7d7e3-2b33-4270-a828-31dee4b1c2c7
 ---
 ### **Course Meeting Times**
 
-Lectures: 1 hour / session, 3 sessions / week
+Lectures: 1.5 hours / session, 2 sessions / week
 
 ### **Prerequisites**
 
-*10.50 Analysis of Transport Phenomena*
+[*10.302 Transport Processes*](https://ocw.mit.edu/courses/10-302-transport-processes-fall-2004/)
 
 ### **Course Description**
 
@@ -30,25 +30,3 @@ O’ Hayre, Ryan, Suk-Won Cha, et al. *Fuel Cell Fundamentals*. 2nd ed. Wiley, 2
 Huggins, Robert A. *Advanced Batteries: Materials Science Aspects*. Springer, 2008. ISBN: 9780387764238. \[Preview with [Google Books](http://books.google.com/books?id=atEOtixRHvcC&pg=PAfrontcover)\]
 
 ### **Grading**
-
-{{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
-ACTIVITIES
-{{< thclose >}}{{< thopen >}}
-PERCENTAGES
-{{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
- 
-{{< tdclose >}}{{< tdopen >}}
- 
-{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
- 
-{{< tdclose >}}{{< tdopen >}}
- 
-{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
- 
-{{< tdclose >}}{{< tdopen >}}
- 
-{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
- 
-{{< tdclose >}}{{< tdopen >}}
- 
-{{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
