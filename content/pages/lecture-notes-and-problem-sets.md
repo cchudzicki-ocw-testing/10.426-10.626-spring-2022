@@ -6,4 +6,4 @@ draft: false
 title: Lecture Notes and Problem Sets
 uid: 34982281-fabb-4553-88dc-59d8ae5bf7bf
 ---
-Lecture Notes and Problem Sets in 10.426/10.626
+Lecture Notes and Problem Sets in 10.426/10.626 (PDF - 45.9MB)
