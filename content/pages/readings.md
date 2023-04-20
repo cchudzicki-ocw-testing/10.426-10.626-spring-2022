@@ -32,31 +32,31 @@ Unit 1: Equivalent Circuits
 
 Unit 2: Thermodynamics
 
-- Statistical thermodynamics, electrochemical potential
-- Nernst equation, open circuit voltage
-- Pourbaix diagram, lead-acid batteries
-- Li-ion batteries, pseudocapacitance, voltammetry
-- Phase separation, phase-field models
+- Statistical thermodynamics, electrochemical potential: **7-8**
+- Nernst equation, open circuit voltage: **8-9** \[N2, O2\]
+- Pourbaix diagram, lead-acid batteries: ***11-12***
+- Li-ion batteries, pseudocapacitance, voltammetry: ***13-14,*** **10, 37**
+- Phase separation, phase-field models: **11, 38, \[1\]**
 
 Unit 3: Reaction Kinetics
 
-- Faradaic reactions in concentrated solutions
-- Butler-Volmer equation, electrocatalysis
-- Phase transformations, electro-autocatalysis
-- Quantum theory of electron transfer
-- Charge transfer at electrodes
+- Faradaic reactions in concentrated solutions: **12,14** \[1\] (10-12)
+- Butler-Volmer equation, electrocatalysis: **13,15** ***19*** \[O3,N8,B3\]
+- Phase transformations, electro-autocatalysis: ***20*** \[2\]
+- Quantum theory of electron transfer: ***22-23*** \[B3.6\] \[1\]
+- Charge transfer at electrodes: ***24*** \[3\] (17-19)
 
 Unit 4: Transport Phenomena
 
-- Concentration polarization
-- Transient diffusion, Warburg impedance
-- Reaction-diffusion, Gerischer impedance
-- Forced convection
-- Ambipolar diffusion
-- Ion concentration polarization
-- Solids and concentrated solutions
-- Diffuse charge , double layers
-- Electrokinetic energy conversion
-- Transport in porous media
-- Scaling analysis of energy storage
-- Porous electrodes
+- Concentration polarization: **16** \[O5.2\]
+- Transient diffusion, Warburg impedance: **19-20** \[B7-8,B10\] \[4\]
+- Reaction-diffusion, Gerischer impedance: ***33*** \[5\]
+- Forced convection: ***28-29,*** **17-18** \[6\] \[O 5.3, N 17\]
+- Ambipolar diffusion: ***32,*** **22** \[N 11
+- Ion concentration polarization: ***34***, **23** \[N 4, 11\]
+- Solids and concentrated solutions: **21** \[1\] \[7\]
+- Diffuse charge , double layers: **24-28** \[N7\]
+- Electrokinetic energy conversion: **29-31**
+- Transport in porous media: **33-34**
+- Scaling analysis of energy storage: **{36-37}**
+- Porous electrodes: **35-37** \[N22\] \[7\]
