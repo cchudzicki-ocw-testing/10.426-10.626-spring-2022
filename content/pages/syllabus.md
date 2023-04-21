@@ -34,7 +34,7 @@ Collaboration policy: You are encouraged to work on problem sets with other stud
 
 Required readings will include selected lecture notes from previous semesters of the course, as well as research articles, assigned throughout the semester and chapters from the following textbooks:
 
-Previous \[10.426/10.626 lecture notes\]([https://ocw.mit.edu/courses/chemical-engineering/10-626-electrochemical-](https://ocw.mit.edu/courses/chemical-engineering/10-626-electrochemical-) energy-systems-spring-2014/lecture-notes)
+Previous [10.426/10.626 lecture notes](https://ocw.mit.edu/courses/10-626-electrochemical-energy-systems-spring-2014/pages/lecture-notes/)
 
 Newman, John, and Karen E. Thomas-Alyea. *Electrochemical Systems*. 3rd ed. Wiley-Interscience, 2004. ISBN: 9780471477563. \[Preview with [Google Books](http://books.google.com/books?id=vArZu0HM-xYC&pg=PAfrontcover)\]
 
