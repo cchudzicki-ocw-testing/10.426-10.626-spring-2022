@@ -8,7 +8,7 @@ uid: b71f13e7-eb3e-4517-96e8-7e9129a063ff
 ---
 The following suggests how topics and class activities are structured throughout the semester.
 
-I. Equivalent Circuits
+**Unit I. Equivalent Circuits**
 
 Lecture 1: Electrochemical Cells
 
@@ -50,7 +50,7 @@ Lecture 13: Quantum Physics of Electrodes
 
 Problem Set 5: Electrochemical Stability and Solid-state Physics
 
-III. Reaction Kinetics
+**Unit III. Reaction Kinetics**
 
 Lecture 14: Reaction Kinetics based on Nonequilibrium Thermodynamics
 
@@ -72,7 +72,7 @@ Lecture 20:  Charge Transfer at Electrodes
 
 Problem Set 8: Marcus Kinetics
 
-IV. Transport Phenomena
+**Unt IV. Transport Phenomena**
 
 Lecture 21: Concentration Polarization
 
